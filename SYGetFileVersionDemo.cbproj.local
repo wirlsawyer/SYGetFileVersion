@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014/06/03 15:47:34.715.cpp,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.cpp=G:\SYGetFileVersion\Unit1.cpp</Transaction>
+    <Transaction>2014/06/03 15:47:34.723.h,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.h=G:\SYGetFileVersion\Unit1.h</Transaction>
+    <Transaction>2014/06/03 15:47:34.723.dfm,C:\Users\Sawyer\Documents\RAD Studio\Projects\Unit1.dfm=G:\SYGetFileVersion\Unit1.dfm</Transaction>
+    <Transaction>2014/06/03 15:47:42.290.cbproj,C:\Users\Sawyer\Documents\RAD Studio\Projects\Project1.cbproj=G:\SYGetFileVersion\SYGetFileVersionDemo.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
